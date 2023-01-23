@@ -19,7 +19,7 @@
 
 -Estudante de T.I na IMD/UFRN - Instituto Metrópole Digital
 
--Estudante de Programação na Sirius Educação - Fellowship Web Dev.
+-Estudante de lingua Inglesa - FUNCERN.
 
 -Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências 
 

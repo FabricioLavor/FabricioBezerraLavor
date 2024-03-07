@@ -1,4 +1,4 @@
-### Ola! Sou Fabricio Bezerra Lavor👋
+### Ola ! Sou Fabricio Lavôr👋
 
 <h4 align="center">
   
@@ -19,7 +19,9 @@
 
 -Estudante de T.I na IMD/UFRN - Instituto Metrópole Digital
 
--Estudante de lingua Inglesa - FUNCERN.
+-Estudante de Ciencias e Tecnologias  - UFRN.
+
+- Trabalho Na Riachuelo / Natal/RN
 
 -Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências 
 

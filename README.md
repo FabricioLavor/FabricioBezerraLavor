@@ -21,7 +21,7 @@
 
 -Estudante de Ciencias e Tecnologias  - UFRN.
 
-- Trabalho Na Riachuelo / Natal/RN
+-Trabalho Na Riachuelo / Natal/RN
 
 -Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências 
 

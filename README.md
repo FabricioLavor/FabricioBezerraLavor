@@ -36,4 +36,4 @@
       
 ## Estaticas do GitHub
 
-![Fabricio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciobezerralavor&show_icons=true&theme=react&count_private=true)
+![Fabricio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciolavor&show_icons=true&theme=react&count_private=true)

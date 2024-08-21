@@ -1,12 +1,12 @@
-### Ola ! Sou Fabricio Lavôr👋
+### Hello! I'm Fabricio Lavôr👋
 
 <h4 align="center">
   
 ![Fabricio](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4748wvftmt52eo6wd1xj3q81easvlslxtsmbjpudkr&rid=giphy.gif&ct=g)
-  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fe-souza&layout=compact&langs_count=7&theme=dark"/>
 </h4>
 
-## As tecnologias que eu uso no meu dia
+## The technologies I use in my day-to-day.
 <div style="display: inline_block"><br>
   <img align="center" alt="Fab-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Fab-HTML"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -15,31 +15,17 @@
   <img align="center" alt="Fab-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
-
 ## Alguns fatos sobre mim
 
--Estudante de T.I na IMD/UFRN - Instituto Metrópole Digital
-
--Estudante de Ciencias e Tecnologias  - UFRN.
-
--Trabalho Na Riachuelo / Natal/RN
-
--Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências 
-
--Dono de uma pequena comunidade gamer
+- I'm a Computer Science student at IMD/UFRN - Instituto Metrópole Digital.
+- I'm also studying Science and Technology at UFRN.
+- I love discovering new things, working in groups, and gaining new experiences. I'm eager to improve my English, learn about new cultures, meet new people, and have new experiences.
 
 <div>
   <a href="https://www.instagram.com/fab_stx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wEh9VAFZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:fabricioblavor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabricio-bezerra-674353218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fabricio-lavor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
       
 ## Estaticas do GitHub

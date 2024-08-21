@@ -3,7 +3,6 @@
 <h4 align="center">
   
 ![Fabricio](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4748wvftmt52eo6wd1xj3q81easvlslxtsmbjpudkr&rid=giphy.gif&ct=g)
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioLavor&layout=compact&langs_count=7&theme=dark"/>
 </h4>
 
 ## The technologies I use in my day-to-day.
@@ -31,3 +30,4 @@
 ## Estaticas do GitHub
 
 ![Fabricio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciolavor&show_icons=true&theme=react&count_private=true)
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioLavor&layout=compact&langs_count=7&theme=dark"/>
